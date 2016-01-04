@@ -4,7 +4,7 @@
  * Please see the LICENSE included with this distribution for details.
  */
 
-package ti.modules.titanium.urbanairship;
+package ti.modules.titanium.urbanAirship;
 
 import java.util.HashSet;
 import java.util.HashMap;
@@ -18,7 +18,7 @@ import org.appcelerator.titanium.TiProperties;
 
 import android.app.Activity;
 import android.content.Intent;
-import ti.modules.titanium.urbanairship.IntentReceiver;
+import ti.modules.titanium.urbanAirship.IntentReceiver;
 
 import com.urbanairship.AirshipConfigOptions;
 import com.urbanairship.UAirship;

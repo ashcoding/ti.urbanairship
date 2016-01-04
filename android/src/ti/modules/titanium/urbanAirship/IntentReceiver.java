@@ -4,7 +4,7 @@
  * Please see the LICENSE included with this distribution for details.
  */
 
-package ti.modules.titanium.urbanairship;
+package ti.modules.titanium.urbanAirship;
 
 import java.util.Arrays;
 import java.util.List;
